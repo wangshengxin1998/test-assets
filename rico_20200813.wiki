@@ -1,0 +1,60 @@
+《'''反勒索及受贿组织法案'''》（英文全称：{{lang|en|Racketeer Influenced and Corrupt Organizations Act}}; 英文缩写：{{lang|en|RICO}})是1970年通过的一项针对有组织犯罪行为如敲诈勒索、谋杀、洗钱、收受非法债务等其他刑事及金融犯罪行为的联邦法案。该法案早期用于打击美国猖獗的[[黑帮]]组织违法犯罪行为，获得巨大成功。近年来则更多被用于个人以及组织的欺诈勒索腐败等一系列损害相关产业经济利益的违法行为。由于该法案可以广泛地起诉犯罪组织成员及与其相关之人员，且可大幅没收犯罪组织的资产，以削弱犯罪组织的财政基础，断绝其经济命脉，对瓦解犯罪集团成效巨大，[[联合国]]及世界许多国家都效仿出台了相关法案。该法案还赋予了美国执法部门一定的涉外管辖权限，近年来由于美国民意对[[中共]]威胁的担忧加剧，美国政府以Rico法案起诉中国华为公司引发关注，民间和官方动用Rico法案制裁中共的呼声越来越高。
+==立法背景==
+美国20世纪20年代开始，黑手党（{{lang|en|Mafia}}、{{lang|en|La Cosa Nostra}}）犯罪猖獗，全美各主要城市均有黑手党家族盘据，操控把持各该城市的经济活动、政治活动，甚至将该城市的执政官员、司法官员及执法官员均纳入旗下，成为美国社会政治经济的严重问题。随着美国民众的呼声不断高涨，为了彻底连根拔除黑手党盘根错节于美国社会各界的势力，美国国会经过长期研究黑手党之特性及犯罪特色，并分析美国联邦检察官及执法单位难以彻底侦办黑手党之症结点之后，制定“'''反勒索及受贿组织法'''”<ref name=a>{{cite web |title=RICO - Why Rico Was An Appropriate Name. (n.d.) |url=https://law.jrank.org/pages/12393/RICO-Why-RICO-Was-An-Appropriate-Name.html}}</ref><ref name=b>{{cite encyclopedia |title=[[:en:Racketeer Influenced and Corrupt Organizations Act|Racketeer Influenced and Corrupt Organizations Act]] |encyclopedia=Wikipedia}}</ref>，以供联邦检察官及执法机关运用，成为美国联邦检察官及执法机关对抗组织犯罪最有效的利器，打击黑手党等犯罪组织获得重大成效。
+==历史沿革==
+RICO法案的立法目的是为了打击黑社会犯罪。这种犯罪的特点是有组织性、长期性、暴力或暴力胁迫性等，其具体表现包括：以暴力或暴力相威胁实施敲诈勒索，或组成黑社会组织以从事杀人、抢劫、诈骗、发放高利贷、非法赌博及卖淫等犯罪行为<ref name=a/>。此后，该法律得到了扩展，增加了许多金融犯罪，例如洗钱，假冒，违反证券以及邮件和电汇欺诈。并广泛应用于各种组织，如腐败的工会组织，警察部门，犯罪团伙等。该法不是对孤立犯罪的惩罚，而偏重犯罪人在组织中的身份和作用。
+
+70年代，RICO法的运用范围并未超脱于这些犯罪领域。然而，进入80年代，越来越多的民事律师发现，RICO法案中第1964(c)款的规定允许任何RICO法案项下的受害人提起民事诉讼，一旦民事指控得以成立，受害人可以获得三倍于其实际损害金额的赔偿及合理支出的律师费。通过民事RICO诉讼所获得巨额赔偿的动机很快在诉讼实践中风靡起来，以致于在80年代末期，民事RICO指控成了美国各联邦法院面临的非常普遍的诉讼。相比而言，整个90年代至今，RICO法案在“反黑”犯罪的刑事诉讼中的应用倒显得凤毛麟角了。
+==违法行为要件==
+===刑事===
+RICO的核心定义为与组织有关的敲诈勒索（{{lang|en|Racketeering Activity}}），但却采用了广义的解释，即除了敲诈勒索，另35项联邦法律所规定的谋杀、绑架、纵火、毒品交易、贿赂、非法赌博等诸多犯罪都被纳入其中，甚至包括邮件和电汇欺诈<ref name=a/>。这些罪行被称为“基础”罪行。
+
+这里符合Rico要件的犯罪行为必须与组织有关。组织可以能是犯罪家庭，街头帮派或贩毒集团，也可以是公司，政党。该行为必须长期存在的和彼此关联的，那些单一的、短期的或相互孤立的犯罪行为不能成为RICO行为或其基础行为。
+
+RICO规定了刑事和民事处罚。这意味着可以由检察官代表政府或私人提出索赔。最高可判处20年徒刑。违者还将面临25万美元的罚款，或者是从此项活动中获得的收益额的两倍。
+
+定罪后，政府将自动没收被告在该组织中与所实施的犯罪行为相关的所有利益，且该组织本身也可能受到严重破坏。而且政府不必等到有罪判决之后，而可以在案件进行审判之前冻结被告的资产。
+===民事===
+RICO法案最有打击力度的在于其民事组成部分。任何人如果因RICO违规行为而受到损失，可以提起民事诉讼，如果胜诉，则可以获得三倍的赔偿金。为防止滥用该条款, 90年代起联邦法院为构成民事诉讼条件设置了许多障碍：
+
+犯罪活动。必须证明被告犯有RICO所列的其中一种罪行。如果以敲诈勒索为由提出索赔，法院将进行严格的审查。
+
+犯罪活动模式。必须显示至少两种犯罪的模式。每一种模式要求以某种方式关联犯罪，例如同一受害者、相同方法、相同参与者或连续犯罪（犯罪已进行了至少一年）。
+
+在时效期内。最高法院裁定，RICO有四年的时效规约，从受害人发现其损害时开始计算。
+==著名美国国内案例==
+80年代许多使用Rico法案打击组织犯罪著名案例都由一位美国检察官鲁迪·朱利安尼<ref name=c>{{cite encyclopedia |title=鲁迪·朱利安尼 |encyclopedia=百度百科 |url=https://baike.baidu.com/item/%E9%B2%81%E8%BF%AA%C2%B7%E6%9C%B1%E5%88%A9%E5%AE%89%E5%B0%BC}}</ref>经手。
+===“五大家族”黑帮===
+在被称为黑手党委员会的审判中，朱利安尼起诉了11个知名的黑手党人物，其中包括在纽约市被称为“[[五大家族]]”的黑帮首脑以及其他六名共犯。他们是比诺犯罪家族首脑保罗·卡斯提尔，杰诺维塞犯罪家族首脑安东尼·萨雷诺，科伦坡犯罪家族首脑卡迈·皮赛可，卢切斯犯罪家族首脑安东尼·科罗洛，布亚诺犯罪家族首脑菲利浦·拉斯泰利，起诉的罪名包括了勒索、诈骗、以及雇佣杀人。8名被告在所有法庭皆被判定有罪，并且在1987年1月13日被判决高达百年的监禁刑期。时代杂志将这次审判称为“或许是自从1943年芝加哥官方扫荡黑手党以来，对于犯罪集团最彻底和最大规模的扫荡”，并且引用了朱利安尼说过的话：“我们的做法…就是要彻底清除这五大家族”。
+
+另一起轰动一时的反黑大案是对博南诺犯罪家族（{{lang|en|Bonanno crime family}}）头目约瑟夫·马西诺（{{lang|en|Joseph Massino}}）的审判。2004年，由法官尼古拉斯·加劳菲斯（{{lang|en|Nicholas Garaufis}}）主审，格雷格·安德烈斯（{{lang|en|Greg D. Andres}}）和罗伯特·海诺克（{{lang|en|Robert Henoch}}）负责起诉 。 根据《反勒索及受贿组织法案》共提出11项罪名，包括7起谋杀案，以及纵火、敲诈、高利贷、非法赌博和洗钱。马西诺是自1944年作为犹太裔美国黑手党重要成员刘易斯·布哈特（Louis Buchalter或Louis „Lepke Buchalter）被处决以来的第一位面临死刑的黑帮老大 ，也是为州政府提供证据的第一位纽约犯罪家族的在任老大，以及在美国黑手党历史上第二位这样做的人 。第一位是费城犯罪家族（{{lang|en|Philadelphia crime family}}）的老大拉尔夫·纳塔莱（{{lang|en|Ralph Natale}}），曾在1999年面临毒品指控时成为证据提供者 。
+===华尔街腐败交易案===
+{{link-en|依凡·波斯基|Ivan Boesky}}是华尔街的股票炒作者，借由投机公司并购而赚进了大约2亿美元的巨款。他曾以公司内线情报为根据进行投资而被美国证券交易委员会调查。数起公司并购案公布前，出现大规模股票交易。虽然这样的内线交易是非法的，但美国司法系统极少严格执行相关法律，直到朱利安尼起诉波斯基为止。波斯基向美国证券交易委员会招供出许多他的内线情报来源，包括了垃圾证券掮客{{link-en|麦可·米尔肯|Michael Milken}}。波斯基坦承自己犯下众多的违法交易，并且供出了许多证据。在与朱利安尼谈判并且认罪之后，他被定罪3年半的有期徒刑、以及一亿元的罚款。
+
+另一个华尔街案例是1989年朱利安尼以98条诈欺罪名<ref name="d">{{cite web |title='JUNK BOND' LEADER IS INDICTED BY U.S. IN CRIMINAL ACTION |url=https://www.nytimes.com/1989/03/30/business/junk-bond-leader-is-indicted-by-us-in-criminal-action.html}}</ref>起诉美国金融家、投资银行家麦可·米尔肯。在这场受到公众高度关注的案件中，米尔肯被联邦大陪审团定罪，米尔肯对其中六条较轻微的证券和交易情报犯罪行为认罪。米尔肯为此付出了高达9亿元的罚款和民事诉讼赔偿，并且终身被禁止接触证券有关业务。最终他被判处10年监禁，但在入狱22个月后于1993年1月获释。米尔肯被认为是20世纪80年代华尔街贪婪的象征。这一案例是根据《反勒索及受贿组织法案》首次对非组织关联的个人提出的诉讼。
+===警局腐败案===
+1984年6月左右，位于佛罗里达州门罗县的基韦斯特警察局（{{lang|en|Key West PD}}），在经过美国司法部漫长的调查后，根据联邦《反勒索及受贿组织法案》被宣布为犯罪单位。包括副警长雷蒙德·卡萨马约尔（{{lang|en|Raymond Casamayor}}）在内的几名高级警官被指控为非法可卡因走私者提供保护而被捕<ref name="e">{{cite web |title=Key West’s 1985 “Bubba Bust” / The Back Story: So Much Worse Than You Think |url=https://thebluepaper.com/key-wests-1985-bubba-bust-bet-didnt-know/}}</ref>。在审判中，一名证人作证说，卡萨马约尔经常将一袋袋可卡因送到市政厅的副警长办公室。
+
+2000年4月，洛杉矶联邦法官威廉雷（{{lang|en|William J. Rea}}）在对一起兰帕特丑闻案作出裁决时说，称原告可以对洛杉矶警察局根据《反勒索及受贿组织法案》提出索赔，这是前所未有的调查结果。判定理由是认为该警察组织可以被定性为敲诈勒索的组织。然而，2001年7月，美国地区法官加里·费斯（{{lang|en|Gary A. Feess}}）表示，原告没有资格根据《反勒索及受贿组织法案》起诉洛杉矶警察局，因为《反勒索及受贿组织法案》保护对象为企业受害者，而原告在指控被告违反《反勒索及受贿组织法案》时，并未直接指出被告的行为让其企业或者其他企业受到利益损失。但原告仍然可以根据其他民事法案来控告被告者的侵权行为。
+===天主教性虐待案件===
+{{main|天主教會性侵害案例}}
+2016年，250多位受虐待幸存者向宾夕法尼亚州总检察长凯瑟琳·凯恩（{{lang|en|Kathleen G. Kane}}）检举了包括洛雷托在内的阿尔托纳-约翰斯敦教区的50名教会神职人员。然而，该教区的马克·巴特查克主教（{{lang|en|Bishop Mark L. Bartchak}}）却有意掩盖这些犯罪行为，在与大陪审团合作期间并未发表调查报告，且拒绝接受采访。并且，阿尔托纳和约翰斯敦地区的警察、地方检察官和法官与主教们勾结掩盖事实，平息了那些试图揭发性侵儿童的牧师的家长的恳求，这一行为使愤怒倍增。于是，来自费城地区的共和党籍前警官、州议员迈克·维勒布（{{lang|en|Mike Vereb}}）给宾夕法尼亚州西区的美国检察官写了一封信，呼吁根据联邦的《反勒索及受贿组织法案》进行调查。如果根据《反勒索及受贿组织法案》认定天主教会负有责任，原告可获得比标准民事诉讼多三倍的赔偿（称为 "三倍赔偿"）
+==涉及美国国外的案件==
+Rico法案具有涉外管辖权，即在一定条件下，可适用于非美国的组织或个人。如该法案规定；“ 如果在美国境内发生重大犯罪案件，或是在美国境外的犯罪行为严重损害到美国的利益，该个人或实体将通过RICO在美国境内受审”。比较著名的涉外案件有：
+===国际足联（FIFA）腐败案===
+{{main|2015年國際足協收賄案}}
+2015年5月， 隶属国际体育管理机构国际足联的洲际足球协会机构南美足联（CONMEBOL）、中北美洲及加勒比海足球协会（CONCACAF）及其体育营销主管官员因利用贿赂、诈骗和洗钱等手段，从国际足联美洲赛事媒体和营销授权的颁发中敛财约150亿美元，包括至少从2016年美国举办的美洲纪念杯（{{lang|es|Copa América Centenario}}）中受贿1.1亿美元，被美国联邦调查局（FBI）和美国国家税务局刑事调查司（IRS-CI）调查后，在瑞士被逮捕。此案因涉案人员非美国公民，逮捕地也非美国境内，引起国际舆论关注，并被质疑是否有法律依据。但美国司法部援引《Rico法案》表示，美国执法机构行使了正当的法定，对触及美国管辖权和损害美国利益的贪腐行为进行打击。
+===逮捕曼努埃尔·诺列加===
+[[曼努埃尔·诺列加]]是巴拿马前独裁领导人。他于1988年被美国佛罗里达联邦大陪审团起诉国际毒品走私等12项罪名。随后美国军队进入巴拿马，2年后成功将其在巴拿马抓捕，后被引渡到美国接受审判，被判犯有贩毒和敲诈勒索罪等八项罪名。这是美国历史上第一次外国领导人在所在国境内被抓捕并被引渡至美国审判。
+===华为及孟晚舟案===
+{{main|孟晚舟事件}}
+2020年2月23日，美国司法部动用《反勒索及受贿组织法案》（以下简称RICO）对华为以及其子公司提起诉讼。该诉讼基于2019年1月司法部的一次指控，当时美国司法部指控华为，华为的若干子公司及首席财务官孟晚舟盗窃商业机密、妨碍司法、躲避对伊朗的经济制裁并构成银行欺诈，此前孟晚舟面临纽约东区联邦法院的一项指控在加拿大转机时被捕，面临引渡<ref>{{cite web |title=华为CFO孟晚舟加拿大被捕或被引渡美国 |url=https://www.bbc.com/zhongwen/simp/chinese-news-46463888 |website=BBC}}</ref><ref>{{cite web |title=华为孟晚舟裁決：孟晚舟案符合双重犯罪 继续引渡 |url=https://www.bbc.com/zhongwen/simp/world-52824217 |website=BBC}}</ref>。在司法部的这项新的起诉书中，除华盛顿西区联邦法院对华为窃取信息的一项指控以及纽约东区联邦法院对孟晚舟、华为及其子公司的金融欺诈和违反制裁向伊朗和朝鲜出售技术等13项指控外，新增了3项指控<ref>{{cite web |title=焦点：美国对华为发起新指控 称其窃取商业机密以及帮助伊朗 |url=https://cn.reuters.com/article/us-huawei-commercial-theft-iran-charge-0-idCNKBS20805F |website=路透社}}</ref>，包括共谋窃取商业机密、电汇欺诈以及敲诈勒索<ref>{{cite web |author1=McKay |title=T. (2020, February 14). Looks Like Huawei Might Be Screwed This Time |url=https://gizmodo.com/new-huawei-indictment-by-u-s-government-includes-rico-1841674124}}</ref><ref>{{cite web |title=Chinese Telecommunications Conglomerate Huawei and Subsidiaries Charged in Racketeering Conspiracy and Conspiracy to Steal Trade Secrets. (2020, February 13) |url=https://www.justice.gov/opa/pr/chinese-telecommunications-conglomerate-huawei-and-subsidiaries-charged-racketeering}}</ref>。同时还新增了四家起诉对象，包括华为设备（{{lang|en|Huawei Device}}）, 华为美国（{{lang|en|Huawei USA}}）, {{lang|en|Futurwei Technologies}}, 以及用来与伊朗交易作掩护的{{lang|en|Skycom}}，新的指控比原来针对对孟晚舟和华为子公司的个案指控范围更大罪名更多，对华为的影响是结构性的。因为“RICO法规中包含多种不同的犯罪，使用RICO可以给检察官更大的自由度”。这也是美国历史上首次针对国外企业动用Rico法案。而华为对这些指控也发表了声明，称这是美国政府对境外私营企业的打压，实属政治迫害的行为。
+==用Rico法案对中共制裁的呼声==
+近年来，[[中共威胁论]]在美国的民意开始上升，动用Rico法案制裁中共的呼声越来越高。
+
+早在2019年，前白宫高级顾问班农就在媒体中提到，中共在美国有许多腐败和不法行为，可以通过RICO法案对实施这些不法行为的机构或者个人，来进行逐个控告。美国司法部有权监管这些不法金流和实施监控其电话通信记录的调查取证。前中国籍富商郭文贵在其自媒体平台曾爆料，他发起成立的法治基金正在用Rico法案对中共和其高官进行起诉，希望能藉此将中共定义为黑社会组织，对其经济命脉造成打击。2020年6月，共和党籍国会众议员雷森塔勒（{{lang|en|Guy Reschenthaler}}）向国会提出《终止中国共产党入籍法案》<ref>{{cite web |title=Congressman seeks to block Chinese communist party members from getting green cards |url=https://justthenews.com/government/congress/rep-reschenthaler-introduces-end-chinese-communist-citizenship-act}}</ref>（{{lang|en|End Chinese Communist Citizenship Act}}<ref>{{cite web |title=H.R.7224 - End Chinese Communist Citizenship Act |url=https://www.congress.gov/bill/116th-congress/house-bill/7224/cosponsors?s=1&r=8&overview=closed&searchResultViewType=expanded |website=US Congress}}</ref>），禁止中国共产党党员获得绿卡和归化美国，并建议取消原国籍法中的豁免条款。7月底美参议院司法委员会通过了“新冠病毒受害者民事审判法”<ref>{{cite web |title=Chairman Graham Applauds Committee Passage of Bill to Allow Americans to Sue China Over Coronavirus Pandemic |url=https://www.judiciary.senate.gov/press/rep/releases/chairman-graham-applauds-committee-passage-of-bill-to-allow-americans-to-sue-china-over-coronavirus-pandemic}}</ref>（{{lang|en|Civil Justice for Victims of COVID Act}}）<ref>{{cite web |title=Banks, Gooden, Introduce Civil Justice for Victims of COVID Act |url=https://banks.house.gov/news/documentsingle.aspx?DocumentID=1704}}</ref>，允许美国人就中共病毒遭受的损失起诉中共政府，并可依此法冻结中国（中共）政府资产，以及剥夺其主权豁免等。而另一新法，也在推动修改《外国主权豁免法》，为更大范围的起诉中共扩宽道路。一系列立法行动让外界普遍关注中共在美国的合法性<ref>{{cite web |title=美剥夺中国主权豁免的立法会引发什么后果？ |url=https://www.voachinese.com/a/US-china-covid-19-foreign-sovereign-immunity-20200428/5396011.html#:~:text=%E6%A0%B9%E6%8D%AE%E5%9B%BD%E9%99%85%E6%B3%95%E7%9A%84%E5%A4%96%E5%9B%BD%E4%B8%BB%E6%9D%83,%E5%92%8C%E5%90%84%E5%B7%9E%E6%B3%95%E9%99%A2%E7%9A%84%E7%AE%A1%E8%BE%96%E3%80%82 |website=美国之音}}</ref>是否正受到越来越多挑战，也为使用Rico法案起诉中共组织和个人铺平了道路。
+{{VOA}}
+==借鉴Rico法案的国际同类法案==
+2000年第55届联和国大会通过了《{{link-en|联合国打击跨国有组织犯罪公约|United Nations Convention against Transnational Organized Crime}}》<ref>{{cite web |title=United Nations Convention against Transnational Organized Crime and the Protocols Thereto |url=https://www.unodc.org/unodc/en/organized-crime/intro/UNTOC.html |website=UNODC}}</ref>（{{lang-en|United Nations Convention against Transnational Organized Crime}}，缩写：{{lang|en|CATOC}}）以联合世界各国力量共同打击规模庞大且组织架构日趋繁杂的跨国犯罪组织。 截至2014年11月为止，已有182个国家及1个区域经济整合组织欧洲联盟签署“联合国打击跨国有组织犯罪公约”，其缔约国已超过联合国会员国数（193国）之90％，除此之外，意大利、澳大利亚、爱尔兰、德国、加拿大、英国、奥地利等国家也先后制定了与Rico法案类似的法案。
+==参考资料==
+{{Reflist}}
